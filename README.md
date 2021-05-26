@@ -6,9 +6,13 @@ Lib : Ncurses.
 This project is based on a puzzle video game in which the player pushes boxes around in a warehouse, trying to get them to storage locations.
 
 The map who representing a warehouse, containing :
+
 "#" = Walls.
+
 "P" = Player.
+
 "X" = Boxes.
+
 "O" = Storage locations.
 
 You play as a player who can only move up and down, right to left onto an empty square but never through a wall.
