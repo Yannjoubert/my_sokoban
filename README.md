@@ -21,4 +21,4 @@ The goal of the game is to put every boxes to the storage locations
 ./my_sokoban (map)
 
 # Example
-# file:///home/jyann/Desktop/jyann/delivery/Project_Semestre_2/B-PSU-200-RUN-2-1-mysokoban-yann.joubert/my_sokoban/readme_png/sokoban_example.png
+![image](file:///home/jyann/Desktop/sokoban_example.png)
