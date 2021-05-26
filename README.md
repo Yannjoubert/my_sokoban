@@ -7,13 +7,10 @@ This project is based on a puzzle video game in which the player pushes boxes ar
 
 The map who representing a warehouse, containing :
 
-"#" = Walls.
-
-"P" = Player.
-
-"X" = Boxes.
-
-"O" = Storage locations.
+* "#" = Walls.
+* "P" = Player.
+* "X" = Boxes.
+* "O" = Storage locations.
 
 You play as a player who can only move up and down, right to left onto an empty square but never through a wall.
 The player can also move into a box, which pushes it into the square beyond.
