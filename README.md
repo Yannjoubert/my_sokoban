@@ -21,4 +21,4 @@ The goal of the game is to put every boxes to the storage locations
 ./my_sokoban (map)
 
 # Example
-![Alt Text](file:///home/jyann/Desktop/sokoban_example.png)
+![Alt Text](file:///sokoban_example.png)
